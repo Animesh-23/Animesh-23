@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animesh-23&label=Profile%20views&color=0e75b6&style=flat" alt="animesh-23" /> </p>
 
-- 🌱 I’m currently learning **Full stack web development with modern technologies**
+- 🌱 I’m currently learning **Full stack web development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
